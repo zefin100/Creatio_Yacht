@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "liHy+aBCc98=",
+  "success": true,
+  "projectFilePath": "C:\\D1DEV\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrYacht\\Files\\UsrYacht.csproj",
+  "expectedPackageFiles": [
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D1DEV\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D1DEV\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
