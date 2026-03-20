@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.8144892e-3147-4937-eb73-b93194dc78eb.Caption" Value="HideComment" />
+			<Item Name="AddonConfig.Rules.c95c041e-1cd4-8de0-0e19-87825b76419a.Caption" Value="Show elements: Ticker Price, UAH" />
+			<Item Name="Caption" Value="Yacht form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>
