@@ -64,6 +64,83 @@
   "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
   "A5": "59d28903-3ede-443e-af72-7016a1472db0"
 }
++ MetaData.Schema.B2 {
+  "UId": "60587230-ae92-d073-c369-2c8ce13828f2",
+  "A2": "ManagerEmail_label",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "c068813c-773c-6b53-0cb4-19e774f2fb5b",
+  "A2": "PriceCannotBeLess",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "4bd03e23-5bbd-0151-ee13-c3a5abb87150",
+  "A2": "CountCannotBeLess",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "e82f3d9c-5882-ce7d-a61b-91bc380b19ac",
+  "A2": "GridDetailSearchFilter_p9rwb3e_placeholder",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "3a4f5b7b-594e-dd36-d8ae-8779c05530d9",
+  "A2": "GridDetailImportDataBtn_q6b4izg_caption",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "1c4fbc45-115d-de74-23aa-33cb30bf664c",
+  "A2": "GridDetailExportDataBtn_m3410cp_caption",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "7070da20-1bed-bab9-9b7c-866f0eb8e9f4",
+  "A2": "GridDetailSettingsBtn_4xm1ga9_caption",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "2bb49f31-5539-4fbc-ffad-c6788a00e154",
+  "A2": "GridDetailRefreshBtn_aaiiv8n_caption",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "5a2e0da4-8a35-c805-877d-a55cbf8a4fea",
+  "A2": "GridDetailAddBtn_vnccfe8_caption",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "373d5d9d-ea02-d791-dcba-7a64a93a2dfb",
+  "A2": "ExpansionPanel_obcmxt6_title",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
++ MetaData.Schema.B2 {
+  "UId": "96c31ca1-6ce3-fef0-7f03-113cfb59993f",
+  "A2": "MultiSelectCategories_label",
+  "A3": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A4": "aa33ca8c-543d-4d9b-895e-f12963b6799f",
+  "A5": "59d28903-3ede-443e-af72-7016a1472db0"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "aa33ca8c-543d-4d9b-895e-f12963b6799f"
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A5 "59d28903-3ede-443e-af72-7016a1472db0"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "aa33ca8c-543d-4d9b-895e-f12963b6799f"
@@ -100,6 +177,17 @@
   "8ec9962c-f6fb-dd7d-8fe7-279dddac2c0a",
   "31d25fc4-7c14-5336-f7e0-326c1e1fad83",
   "b84c22ac-fbb4-f23d-5334-61da7efcb0d6",
+  "60587230-ae92-d073-c369-2c8ce13828f2",
+  "c068813c-773c-6b53-0cb4-19e774f2fb5b",
+  "4bd03e23-5bbd-0151-ee13-c3a5abb87150",
+  "e82f3d9c-5882-ce7d-a61b-91bc380b19ac",
+  "3a4f5b7b-594e-dd36-d8ae-8779c05530d9",
+  "1c4fbc45-115d-de74-23aa-33cb30bf664c",
+  "7070da20-1bed-bab9-9b7c-866f0eb8e9f4",
+  "2bb49f31-5539-4fbc-ffad-c6788a00e154",
+  "5a2e0da4-8a35-c805-877d-a55cbf8a4fea",
+  "373d5d9d-ea02-d791-dcba-7a64a93a2dfb",
+  "96c31ca1-6ce3-fef0-7f03-113cfb59993f",
   "fd9e5bd2-19ad-68b5-1356-fe7b39d36f28",
   "a77180d7-a9d0-5c7d-a47b-74c0545a1774",
   "a53e6c9a-741a-21de-9293-9d87d6014595",
