@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Yacht form page" />
+			<Item Name="LocalizableStrings.Button_mv55h6h_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.CountCannotBeLess.Value" Value="CountCannotBeLess" />
 			<Item Name="LocalizableStrings.ExpansionPanel_obcmxt6_title.Value" Value="YachtRental" />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_vnccfe8_caption.Value" Value="New" />
@@ -15,6 +16,7 @@
 			<Item Name="LocalizableStrings.MultiSelectCategories_label.Value" Value="Categories" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="PriceCannotBeLess" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.RunAvgProcessMenuItem_caption.Value" Value="Run Average Price Process" />
 			<Item Name="LocalizableStrings.addRecord_67fszn1_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_7slh33k_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_9z8lozf_caption.Value" Value="Add new" />
